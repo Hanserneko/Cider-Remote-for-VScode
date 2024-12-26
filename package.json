@@ -1,7 +1,8 @@
 {
-  "name": "cider-remote-unofficial",
+  "name": "cider-remote-unoffic",
   "displayName": "Cider Remote for VScode(unofficial)",
   "description": "This is an unofficial remote for Cider Player that works on VScode",
+  "publisher": "hanser-no-neko",
   "icon": "Assets/Cider-Logo.png",
   "version": "1.0.0",
   "engines": {
